@@ -1,0 +1,39 @@
+{
+    "type":"FeatureCollection",
+    "features":[],
+    "numberMatched":0,
+    "numberReturned":0,
+    "links":[
+        {
+            "type":"application/geo+json",
+            "rel":"self",
+            "title":"This document as GeoJSON",
+            "href":"https://demo.pygeoapi.io/master/collections/lakes/items?f=json&bbox=6,35,19,48&limit=100"
+        },
+        {
+            "rel":"alternate",
+            "type":"application/ld+json",
+            "title":"This document as RDF (JSON-LD)",
+            "href":"https://demo.pygeoapi.io/master/collections/lakes/items?f=jsonld&bbox=6,35,19,48&limit=100"
+        },
+        {
+            "type":"text/html",
+            "rel":"alternate",
+            "title":"This document as HTML",
+            "href":"https://demo.pygeoapi.io/master/collections/lakes/items?f=html&bbox=6,35,19,48&limit=100"
+        },
+        {
+            "type":"text/csv; charset=utf-8",
+            "rel":"alternate",
+            "title":"This document as CSV",
+            "href":"https://demo.pygeoapi.io/master/collections/lakes/items?f=csv&bbox=6,35,19,48&limit=100"
+        },
+        {
+            "type":"application/json",
+            "title":"Large Lakes",
+            "rel":"collection",
+            "href":"https://demo.pygeoapi.io/master/collections/lakes"
+        }
+    ],
+    "timeStamp":"2026-10-29T14:29:56.540522Z"
+}

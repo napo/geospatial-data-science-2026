@@ -1,0 +1,14 @@
+{
+  "trento.osm.pbf": {
+    "url": "https://osmit-estratti.wmcloud.org/output/pbf/comuni/022205_Trento.osm.pbf",
+    "retrieved_utc": null,
+    "provenance_note": "Local file supplied without retrieval metadata; verify origin.",
+    "sha256": "2d8996caeec0e70b397c3030d1bf42ba0a8c1dccad96ef344f7418137c081eaa"
+  },
+  "FARM001.csv": {
+    "url": "https://servizi.apss.tn.it/opendata/FARM001.csv",
+    "retrieved_utc": null,
+    "provenance_note": "Local file supplied without retrieval metadata; verify origin.",
+    "sha256": "9d7b99d1ce49473a84ff7095ff742a430fb9cd3d5309edc2fb0c77ff41f0a98f"
+  }
+}

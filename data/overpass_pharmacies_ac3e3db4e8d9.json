@@ -1,0 +1,400 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-29T14:30:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 247887427,
+  "lat": 46.0716090,
+  "lon": 11.1402607,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2024-02-05",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Comunale San Donà",
+    "opening_hours": "Mo-Fr 08:30-12:00,15:00-19:00; Sa 08:30-12:00",
+    "operator": "Farmacie Comunali spa",
+    "ref:vatin": "IT01581140223"
+  }
+},
+{
+  "type": "node",
+  "id": 265593284,
+  "lat": 46.0580397,
+  "lon": 11.1327620,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "38122",
+    "addr:street": "Largo Medaglie d'Oro",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmacia \"Bolghera\"",
+    "opening_hours": "Mo-Sa 08:00-19:30; Su,PH 08:30-12:00",
+    "ref:vatin": "IT02349510228"
+  }
+},
+{
+  "type": "node",
+  "id": 268401568,
+  "lat": 46.0676744,
+  "lon": 11.1219136,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "10",
+    "addr:postcode": "38122",
+    "addr:street": "Piazza del Duomo",
+    "amenity": "pharmacy",
+    "check_date": "2025-08-01",
+    "contact:phone": "+39 0461 236139",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "kids_area": "no",
+    "level": "0",
+    "name": "Farmacia dall'Armi",
+    "operator": "Pattini Dr. Alberto e Dr.ssa Alessandra",
+    "ref:vatin": "IT02207590221",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 268404116,
+  "lat": 46.0677922,
+  "lon": 11.1223981,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "20",
+    "addr:postcode": "38122",
+    "addr:street": "Piazza Mario Pasi",
+    "amenity": "pharmacy",
+    "contact:phone": "+39 0461 982103",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Santoni",
+    "operator": "Farmacia De Battaglia SNC",
+    "ref:vatin": "IT02099830222",
+    "surveillance": "indoor"
+  }
+},
+{
+  "type": "node",
+  "id": 268429704,
+  "lat": 46.0674124,
+  "lon": 11.1241882,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "51",
+    "addr:postcode": "38122",
+    "addr:street": "Via Mantova",
+    "amenity": "pharmacy",
+    "check_date": "2023-11-23",
+    "contact:email": "rcainel@tin.it",
+    "contact:phone": "+39 0461 234387",
+    "contact:website": "http://www.farmaciagallo.com/",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Lamberto Gallo",
+    "operator": "Cainelli Paolo & C. snc",
+    "ref:vatin": "IT01855780225"
+  }
+},
+{
+  "type": "node",
+  "id": 269193734,
+  "lat": 46.0636670,
+  "lon": 11.1237066,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "57",
+    "addr:postcode": "38122",
+    "addr:street": "Via Santa Croce",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Santa Chiara",
+    "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00; Sa 09:00-12:30"
+  }
+},
+{
+  "type": "node",
+  "id": 292015868,
+  "lat": 46.0767326,
+  "lon": 11.1419881,
+  "tags": {
+    "addr:city": "Cognola",
+    "addr:country": "IT",
+    "addr:housenumber": "10",
+    "addr:postcode": "38121",
+    "addr:street": "Piazza dell'Argentario",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Comunale Cognola",
+    "phone": "+39 0461 984722"
+  }
+},
+{
+  "type": "node",
+  "id": 429202410,
+  "lat": 46.0537028,
+  "lon": 11.1296266,
+  "tags": {
+    "amenity": "pharmacy",
+    "check_date": "2026-06-03",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia \"San Bartolameo\""
+  }
+},
+{
+  "type": "node",
+  "id": 431618064,
+  "lat": 46.0769970,
+  "lon": 11.1191070,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "38121",
+    "addr:street": "Piazza General Antonio Cantore",
+    "amenity": "pharmacy",
+    "check_date": "2025-09-21",
+    "contact:phone": "+39 0461 823529",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia San Lorenzo",
+    "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00",
+    "ref:vatin": "IT01709540221"
+  }
+},
+{
+  "type": "node",
+  "id": 432480282,
+  "lat": 46.0583812,
+  "lon": 11.1215895,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "39",
+    "addr:postcode": "38122",
+    "addr:street": "Via Vittorio Veneto",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Comunale San Giuseppe"
+  }
+},
+{
+  "type": "node",
+  "id": 437296845,
+  "lat": 46.0655277,
+  "lon": 11.1320121,
+  "tags": {
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "38122",
+    "addr:street": "Via Benedetto Giovanelli",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Comunale \"San Camillo\"",
+    "opening_hours": "Mo-Fr 08:30-12:15,15:30-19:00; Sa 08:30-12:15"
+  }
+},
+{
+  "type": "node",
+  "id": 468152872,
+  "lat": 46.0738199,
+  "lon": 11.1251916,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "7a",
+    "addr:postcode": "38122",
+    "addr:street": "Via Alessandro Manzoni",
+    "amenity": "pharmacy",
+    "contact:phone": "+39 0461 239805",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia \"Grandi\"",
+    "opening_hours": "Mo-Fr 08:00-13:00,15:00-19:00; Sa 08:30-12:30",
+    "operator": "dott. Mauro Lepore",
+    "ref:vatin": "IT00639430222",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 546145591,
+  "lat": 46.0610398,
+  "lon": 11.1187933,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "22",
+    "addr:postcode": "38122",
+    "addr:street": "Via Giuseppe Giusti",
+    "amenity": "pharmacy",
+    "check_date": "2025-09-21",
+    "check_date:opening_hours": "2025-09-21",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia San Francesco",
+    "opening_hours": "Mo-Fr 08:00-12:30,15:00-19:00",
+    "operator": "Dott.ssa Bertolo Giovanna",
+    "ref:vatin": "IT02330570223",
+    "source": "https://www.ladige.it/cronaca/2021/04/30/aperta-una-nuova-farmacia-in-via-giusti-a-trento-1.2899972",
+    "start_date": "2021-04-30"
+  }
+},
+{
+  "type": "node",
+  "id": 558628514,
+  "lat": 46.0681249,
+  "lon": 11.1169765,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "25",
+    "addr:postcode": "38122",
+    "addr:street": "Via Giuseppe Canestrini",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "opening_hours": "Mo-Fr 08:30-13:00,15:00-19:00; Sa 09:00-13:00"
+  }
+},
+{
+  "type": "node",
+  "id": 560073333,
+  "lat": 46.0698069,
+  "lon": 11.1230745,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "42",
+    "addr:postcode": "38122",
+    "addr:street": "Via Giannantonio Manci",
+    "amenity": "pharmacy",
+    "check_date": "2023-11-04",
+    "contact:phone": "+39 0461 982584",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Alla Madonna",
+    "opening_hours": "Mo-Sa 08:30-12:30,15:00-19:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1129326761,
+  "lat": 46.0535018,
+  "lon": 11.1206212,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:postcode": "38122",
+    "addr:street": "Via San Pio Decimo",
+    "alt_name": "Farmacia Comunale Pio X",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Comunale Pio Decimo",
+    "opening_hours": "Mo-Fr 08:30-12:15, 15:00-19:00; Sa 08:30-12:15",
+    "operator": "Comunale N.3 Pio X",
+    "ref:msal": "16670",
+    "ref:vatin": "IT01581140223",
+    "source": "Ministero della Salute",
+    "source:start_date": "2017-07-01"
+  }
+},
+{
+  "type": "node",
+  "id": 1998966129,
+  "lat": 46.0706348,
+  "lon": 11.1124075,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "19a",
+    "addr:postcode": "38122",
+    "addr:street": "Via Brescia",
+    "amenity": "pharmacy",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Comunale",
+    "opening_hours": "Mo-Fr 08:30-12:00, Sa 08:30-12:00, Mo-Fr 15:00-19:00",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2603444254,
+  "lat": 46.0487161,
+  "lon": 11.1256929,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "112",
+    "addr:postcode": "38123",
+    "addr:street": "Via Alcide De Gasperi",
+    "amenity": "pharmacy",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Clarina",
+    "opening_hours": "Mo-Sa 08:00-19:30",
+    "ref:msal": "16664"
+  }
+},
+{
+  "type": "node",
+  "id": 5669932017,
+  "lat": 46.0608600,
+  "lon": 11.1281068,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "68",
+    "addr:postcode": "38122",
+    "addr:street": "Via Milano",
+    "amenity": "pharmacy",
+    "dispensing": "no",
+    "healthcare": "pharmacy",
+    "name": "Igea",
+    "opening_hours": "Mo-Fr 08:30-12:30,15:00-19:00, Sa 08:30-12:30",
+    "phone": "+39 0461 910761"
+  }
+},
+{
+  "type": "node",
+  "id": 10719892479,
+  "lat": 46.0618193,
+  "lon": 11.1150956,
+  "tags": {
+    "amenity": "pharmacy",
+    "name": "Parafarmacia",
+    "opening_hours": "Mo-Fr 09:00-14:00,16:00-19:00; Sa 10:00-14:00,16:00-18:00"
+  }
+},
+{
+  "type": "way",
+  "id": 36845889,
+  "center": {
+    "lat": 46.0496916,
+    "lon": 11.1436658
+  },
+  "tags": {
+    "amenity": "pharmacy",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Farmacia Bolego Villazzano",
+    "opening_hours": "Mo-Fr 08:00-12:30,15:00-19:30"
+  }
+}
+
+  ]
+}
