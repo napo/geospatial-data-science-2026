@@ -1,52 +1,14 @@
 {
-  "ogc_collections.json": {
-    "url": "https://demo.pygeoapi.io/master/collections?f=json",
-    "retrieved_utc": "2026-10-29T14:29:51.749726+00:00",
-    "content_type": "application/json",
-    "sha256": "9c390dbe234f8a0b2c670be1467c88b7aae1fa4d6dae23b388b608e78d6e3404"
-  },
-  "ogc_lakes_page_0.json": {
-    "url": "https://demo.pygeoapi.io/master/collections/lakes/items?f=json&bbox=6%2C35%2C19%2C48&limit=100",
-    "retrieved_utc": "2026-10-29T14:29:56.647261+00:00",
-    "content_type": "application/json",
-    "sha256": "211aa60449bf19b2fbbf8043fb8aced592b536acdc29fd7f57c96c2c2a8704a8"
-  },
-  "wfs_capabilities.xml": {
-    "url": "https://demo.mapserver.org/cgi-bin/wfs?service=WFS&version=2.0.0&request=GetCapabilities",
-    "retrieved_utc": "2026-10-29T14:31:19.348937+00:00",
-    "content_type": "text/xml; charset=UTF-8",
-    "sha256": "e0230861d5e066d6fd7144767877e988d6e7b700508155a652f578d5e8312529"
-  },
-  "geocode_bc3211d50e84.json": {
-    "url": "https://nominatim.openstreetmap.org/search?q=Via+Verdi%2C+26&format=jsonv2&limit=5&addressdetails=1",
-    "retrieved_utc": null,
-    "provenance_note": "Local file supplied without retrieval metadata; verify origin.",
-    "sha256": "d11978aa28220fb21b56e1aeac7365fdc31222465c63807c9efb68ff664e3ed1"
-  },
-  "geocode_a66f076ea90c.json": {
-    "url": "https://nominatim.openstreetmap.org/search?q=Via+Giuseppe+Verdi%2C+26%2C+Trento%2C+Italia&format=jsonv2&limit=5&addressdetails=1",
-    "retrieved_utc": null,
-    "provenance_note": "Local file supplied without retrieval metadata; verify origin.",
-    "sha256": "f3abab8393f31899f0c2c09e053221c106a01f115ab0dcd182922e836389548f"
-  },
-  "overpass_pharmacies_ac3e3db4e8d9.json": {
-    "url": "https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A60%5D%3Bnwr%5B%22amenity%22%3D%22pharmacy%22%5D%2846.045%2C11.095%2C46.085%2C11.145%29%3Bout+center+tags%3B",
-    "retrieved_utc": "2026-10-29T14:31:59.304671+00:00",
-    "content_type": "application/json",
-    "sha256": "adbf6db32dc70ccfca22ae3e57e3be52025c4fc6a061857587ba23477f796f0c"
-  },
   "trento.osm.pbf": {
     "url": "https://osmit-estratti.wmcloud.org/output/pbf/comuni/022205_Trento.osm.pbf",
-    "retrieved_utc": "2026-10-29T14:37:48.630093+00:00",
+    "retrieved_utc": null,
     "provenance_note": "Local file supplied without retrieval metadata; verify origin.",
-    "sha256": "2d8996caeec0e70b397c3030d1bf42ba0a8c1dccad96ef344f7418137c081eaa",
-    "last_modified": "Thu, 29 Oct 2026 01:42:22 GMT",
-    "source": "OpenStreetMap municipal extract distributed by Wikimedia Italia"
+    "sha256": "2d8996caeec0e70b397c3030d1bf42ba0a8c1dccad96ef344f7418137c081eaa"
   },
   "FARM001.csv": {
     "url": "https://servizi.apss.tn.it/opendata/FARM001.csv",
-    "retrieved_utc": "2026-10-29T14:39:24.722271+00:00",
-    "sha256": "9d7b99d1ce49473a84ff7095ff742a430fb9cd3d5309edc2fb0c77ff41f0a98f",
-    "last_modified_header": "Thu, 30 Dec 2021 11:42:29 GMT"
+    "retrieved_utc": null,
+    "provenance_note": "Local file supplied without retrieval metadata; verify origin.",
+    "sha256": "9d7b99d1ce49473a84ff7095ff742a430fb9cd3d5309edc2fb0c77ff41f0a98f"
   }
 }
