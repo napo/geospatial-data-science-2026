@@ -1,0 +1,93 @@
+{
+  "s2_B02.tif": {
+    "scene_id": "S2A_MSIL2A_20210814T102031_R065_T32TPS_20210814T232703",
+    "asset_key": "B02",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2021/08/14/S2A_MSIL2A_20210814T102031_N0300_R065_T32TPS_20210814T232703.SAFE/GRANULE/L2A_T32TPS_A032094_20210814T102609/IMG_DATA/R10m/T32TPS_20210814T102031_B02_10m.tif",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "bfd7ab4d4b932e34ac5791a97d6945f05c9b247566e06cb46bccb89370825a1e"
+  },
+  "s2_B03.tif": {
+    "scene_id": "S2A_MSIL2A_20210814T102031_R065_T32TPS_20210814T232703",
+    "asset_key": "B03",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2021/08/14/S2A_MSIL2A_20210814T102031_N0300_R065_T32TPS_20210814T232703.SAFE/GRANULE/L2A_T32TPS_A032094_20210814T102609/IMG_DATA/R10m/T32TPS_20210814T102031_B03_10m.tif",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "9395fe432326e2a704d1656f9b4b4ec6c374fa6b646a2017ac497fb26c83eaab"
+  },
+  "s2_B04.tif": {
+    "scene_id": "S2A_MSIL2A_20210814T102031_R065_T32TPS_20210814T232703",
+    "asset_key": "B04",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2021/08/14/S2A_MSIL2A_20210814T102031_N0300_R065_T32TPS_20210814T232703.SAFE/GRANULE/L2A_T32TPS_A032094_20210814T102609/IMG_DATA/R10m/T32TPS_20210814T102031_B04_10m.tif",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "835cf6d54470a914e68abb72b9488fc7085b8f609eba77b93c10ec51dfcfba50"
+  },
+  "s2_B08.tif": {
+    "scene_id": "S2A_MSIL2A_20210814T102031_R065_T32TPS_20210814T232703",
+    "asset_key": "B08",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2021/08/14/S2A_MSIL2A_20210814T102031_N0300_R065_T32TPS_20210814T232703.SAFE/GRANULE/L2A_T32TPS_A032094_20210814T102609/IMG_DATA/R10m/T32TPS_20210814T102031_B08_10m.tif",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "a09a8ad35084e50db9204289f8aaacebde9ff8dcff3f603dc825edcc1eb4d134"
+  },
+  "s2_SCL.tif": {
+    "scene_id": "S2A_MSIL2A_20210814T102031_R065_T32TPS_20210814T232703",
+    "asset_key": "SCL",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2021/08/14/S2A_MSIL2A_20210814T102031_N0300_R065_T32TPS_20210814T232703.SAFE/GRANULE/L2A_T32TPS_A032094_20210814T102609/IMG_DATA/R20m/T32TPS_20210814T102031_SCL_20m.tif",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "e8c49650f49f4d41bde1a1b52ee9966c570098f4f455a2f382a3727083999e68"
+  },
+  "landsat_lwir11.tif": {
+    "scene_id": "LC09_L2SP_192028_20250812_02_T1",
+    "asset_key": "lwir11",
+    "original_asset_url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2025/192/028/LC09_L2SP_192028_20250812_20250815_02_T1/LC09_L2SP_192028_20250812_20250815_02_T1_ST_B10.TIF",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "478cf7c05351919e24626343e9d540512d85a59568acad31dba7931c74c9908a"
+  },
+  "landsat_qa.tif": {
+    "scene_id": "LC09_L2SP_192028_20250812_02_T1",
+    "asset_key": "qa",
+    "original_asset_url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2025/192/028/LC09_L2SP_192028_20250812_20250815_02_T1/LC09_L2SP_192028_20250812_20250815_02_T1_ST_QA.TIF",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "operation": "window crop, no resampling, original stored values retained",
+    "sha256": "283227d922445e9fb5df1812772a050304cc02387c2a404f435841e8b5a9276b"
+  }
+}
