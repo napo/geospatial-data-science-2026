@@ -1,0 +1,108 @@
+{
+  "s2_B02.tif": {
+    "scene_id": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+    "acquisition_utc": "2025-08-12T10:07:01.024000Z",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2025/08/12/S2A_MSIL2A_20250812T100701_N0511_R022_T32TPS_20250812T120012.SAFE/GRANULE/L2A_T32TPS_A052958_20250812T101728/IMG_DATA/R10m/T32TPS_20250812T100701_B02_10m.tif",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "961ca6ca82482d7eb083de1108f6ec5680b4a1bb921c5fad5dc58d9df89419d2"
+  },
+  "s2_B03.tif": {
+    "scene_id": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+    "acquisition_utc": "2025-08-12T10:07:01.024000Z",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2025/08/12/S2A_MSIL2A_20250812T100701_N0511_R022_T32TPS_20250812T120012.SAFE/GRANULE/L2A_T32TPS_A052958_20250812T101728/IMG_DATA/R10m/T32TPS_20250812T100701_B03_10m.tif",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "122aaa5b7dea0a09cbbfb05801e4e5da717654ae6ca7337f1180702b427ea3c6"
+  },
+  "s2_B04.tif": {
+    "scene_id": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+    "acquisition_utc": "2025-08-12T10:07:01.024000Z",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2025/08/12/S2A_MSIL2A_20250812T100701_N0511_R022_T32TPS_20250812T120012.SAFE/GRANULE/L2A_T32TPS_A052958_20250812T101728/IMG_DATA/R10m/T32TPS_20250812T100701_B04_10m.tif",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "2f3d8c488d836971863dced93cc5bed80ed60bedfb365088095385088ad30138"
+  },
+  "s2_B08.tif": {
+    "scene_id": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+    "acquisition_utc": "2025-08-12T10:07:01.024000Z",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2025/08/12/S2A_MSIL2A_20250812T100701_N0511_R022_T32TPS_20250812T120012.SAFE/GRANULE/L2A_T32TPS_A052958_20250812T101728/IMG_DATA/R10m/T32TPS_20250812T100701_B08_10m.tif",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "125e95aeac2cd1f7c864eb17dcb2177df414720d15a6c4537a5773ed49f42ad3"
+  },
+  "s2_SCL.tif": {
+    "scene_id": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+    "acquisition_utc": "2025-08-12T10:07:01.024000Z",
+    "original_asset_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2025/08/12/S2A_MSIL2A_20250812T100701_N0511_R022_T32TPS_20250812T120012.SAFE/GRANULE/L2A_T32TPS_A052958_20250812T101728/IMG_DATA/R20m/T32TPS_20250812T100701_SCL_20m.tif",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "deda2d45317a2e9c5acd1d430cf4d6716522c3b568460ce49ea8b2ade9144a76"
+  },
+  "landsat_lwir11.tif": {
+    "scene_id": "LC09_L2SP_192028_20250812_02_T1",
+    "acquisition_utc": "2025-08-12T09:58:25.016675Z",
+    "original_asset_url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2025/192/028/LC09_L2SP_192028_20250812_20250815_02_T1/LC09_L2SP_192028_20250812_20250815_02_T1_ST_B10.TIF",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "478cf7c05351919e24626343e9d540512d85a59568acad31dba7931c74c9908a"
+  },
+  "landsat_qa_pixel.tif": {
+    "scene_id": "LC09_L2SP_192028_20250812_02_T1",
+    "acquisition_utc": "2025-08-12T09:58:25.016675Z",
+    "original_asset_url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2025/192/028/LC09_L2SP_192028_20250812_20250815_02_T1/LC09_L2SP_192028_20250812_20250815_02_T1_QA_PIXEL.TIF",
+    "operation": "Spatial crop only; original stored pixel values, cell spacing and CRS retained",
+    "crop_bbox_wgs84": [
+      11.08,
+      46.04,
+      11.16,
+      46.09
+    ],
+    "sha256": "3029fba11a27fc9965a26661924211550f9d27e807db055675c71171360bf98b"
+  },
+  "landsat_st_qa.tif": {
+    "scene_id": "LC09_L2SP_192028_20250812_02_T1",
+    "original_asset_url": "https://landsateuwest.blob.core.windows.net/landsat-c2/level-2/standard/oli-tirs/2025/192/028/LC09_L2SP_192028_20250812_20250815_02_T1/LC09_L2SP_192028_20250812_20250815_02_T1_ST_QA.TIF",
+    "meaning": "ST_QA: estimated surface-temperature uncertainty; scale 0.01 kelvin. Not a cloud bitmask."
+  },
+  "ndvi.tif": {
+    "operation": "Derived teaching raster",
+    "recipe": "(calibrated B08-B04)/(B08+B04); SCL nearest neighbour, retain classes 4,5,6; finite values and positive denominator",
+    "sha256": "1271e291ce0129490d6511ddcdb268e9b2c10d912448667f108d26eb2628ab74"
+  },
+  "lst_celsius.tif": {
+    "operation": "Derived teaching raster",
+    "recipe": "ST DN * metadata scale + offset - 273.15; exclude QA_PIXEL bits 0-5 and ST DN=0",
+    "sha256": "5434c40a65630a578f2beb7b263ae8e0284d584fedb6569d1ceb143515bb4e88"
+  }
+}

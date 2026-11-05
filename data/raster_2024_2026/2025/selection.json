@@ -1,0 +1,12 @@
+{
+  "year": 2025,
+  "sentinel_date": "2025-08-12",
+  "landsat_date": "2025-08-12",
+  "date_gap_days": 0,
+  "sentinel_local_retained_fraction": 0.9985109527696279,
+  "landsat_local_retained_fraction": 1.0,
+  "sentinel_scene": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+  "landsat_scene": "LC09_L2SP_192028_20250812_02_T1",
+  "files_folder": "raster_2024_2026/2025",
+  "sentinel_baseline": "05.11"
+}

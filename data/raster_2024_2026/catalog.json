@@ -1,0 +1,48 @@
+{
+  "bbox_wgs84": [
+    11.08,
+    46.04,
+    11.16,
+    46.09
+  ],
+  "season": "July-August",
+  "selection_method": "Landsat candidates ranked by scene cloud cover; first locally >=85% retained chosen. Sentinel candidate closest in date with >=85% local SCL retention. Retain all masks and actual dates.",
+  "records": [
+    {
+      "year": 2024,
+      "sentinel_date": "2024-07-31",
+      "landsat_date": "2024-07-31",
+      "date_gap_days": 0,
+      "sentinel_local_retained_fraction": 0.9991286316207452,
+      "landsat_local_retained_fraction": 1.0,
+      "sentinel_scene": "S2B_MSIL2A_20240731T100559_R022_T32TPS_20240731T125141",
+      "landsat_scene": "LC09_L2SP_193028_20240731_02_T1",
+      "files_folder": "raster_2024_2026/2024",
+      "sentinel_baseline": "05.11"
+    },
+    {
+      "year": 2025,
+      "sentinel_date": "2025-08-12",
+      "landsat_date": "2025-08-12",
+      "date_gap_days": 0,
+      "sentinel_local_retained_fraction": 0.9985109527696279,
+      "landsat_local_retained_fraction": 1.0,
+      "sentinel_scene": "S2A_MSIL2A_20250812T100701_R022_T32TPS_20250812T120012",
+      "landsat_scene": "LC09_L2SP_192028_20250812_02_T1",
+      "files_folder": "raster_2024_2026/2025",
+      "sentinel_baseline": "05.11"
+    },
+    {
+      "year": 2026,
+      "sentinel_date": "2026-08-15",
+      "landsat_date": "2026-08-15",
+      "date_gap_days": 0,
+      "sentinel_local_retained_fraction": 0.9977829741236681,
+      "landsat_local_retained_fraction": 1.0,
+      "sentinel_scene": "S2C_MSIL2A_20260815T101021_R022_T32TPS_20260815T152913",
+      "landsat_scene": "LC09_L2SP_192028_20260815_02_T1",
+      "files_folder": "raster_2024_2026/2026",
+      "sentinel_baseline": "05.12"
+    }
+  ]
+}

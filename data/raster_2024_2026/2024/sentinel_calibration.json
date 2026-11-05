@@ -1,0 +1,11 @@
+{
+  "quantification_value": 10000.0,
+  "offset_dn": {
+    "B02": -1000.0,
+    "B03": -1000.0,
+    "B04": -1000.0,
+    "B08": -1000.0
+  },
+  "source_xml_url": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/32/T/PS/2024/07/31/S2B_MSIL2A_20240731T100559_N0511_R022_T32TPS_20240731T125141.SAFE/MTD_MSIL2A.xml",
+  "baseline": "05.11"
+}
